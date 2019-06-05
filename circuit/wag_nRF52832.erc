@@ -1,0 +1,11 @@
+ERC report (qua 05 jun 2019 09:40:43 -03, Encoding UTF8 )
+
+***** Sheet /
+ErrType(2): Pin not connected (use a "no connection" flag to suppress this error)
+    @(175,26 mm, 92,71 mm): Pin 2 (Passive) of component L1 is unconnected.
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(81,28 mm, 110,49 mm): Pin 13 (Power input) of component U1 is not driven (Net 3).
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(193,04 mm, 90,17 mm): Pin 1 (Power input) of component #PWR0107 is not driven (Net 4).
+
+ ** ERC messages: 3  Errors 0  Warnings 3
