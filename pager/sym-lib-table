@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name custom)(type Legacy)(uri "C:/Users/Allan/Documents/KiCad Projects/pager/custom.lib")(options "")(descr "Project custom library."))
+  (lib (name pager-rescue)(type Legacy)(uri ${KIPRJMOD}/pager-rescue.lib)(options "")(descr ""))
+)
