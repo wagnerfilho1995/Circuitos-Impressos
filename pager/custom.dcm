@@ -33,6 +33,10 @@ $CMP UART
 D Universal Asynchronous Receiver / Transmitter
 $ENDCMP
 #
+$CMP USB_Micro-B
+D Universal Serial Bus (USB): Micro B female connection
+$ENDCMP
+#
 $CMP nRF52832-QFAA
 D Multi-protocol Bluetooth low energy, ANT, and 2.4 GHz proprietary system on chip
 F https://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.4.pdf
